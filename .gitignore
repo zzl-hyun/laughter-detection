@@ -54,6 +54,8 @@ Pipfile.lock
 scripts/Development.ipynb
 scripts/train_backup.py
 
-
-
+*.wav
+*.mp4
+*.m4a
+*.mp3
 
