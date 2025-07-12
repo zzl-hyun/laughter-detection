@@ -66,7 +66,7 @@ if __name__ == '__main__':
                             expand_channel_dim=config['expand_channel_dim'])
 
     inference_generator = torch.utils.data.DataLoader(
-        inference_dataset, num_workers=4, batch_size=8, shuffle=False, collate_fn=collate_fn)
+        inference_dataset, num_workers=2, batch_size=16, shuffle=False, collate_fn=collate_fn)
 
 
     ##### Make Predictions
@@ -92,9 +92,12 @@ if __name__ == '__main__':
     print(); print("found %d laughs." % (len (instances)))
 
     if len(instances) > 0:
-        full_res_y, full_res_sr = librosa.load(audio_path,sr=44100)
+        # Only load high-resolution audio if we need to save audio files
+        if save_to_audio_files:
+            full_res_y, full_res_sr = librosa.load(audio_path,sr=44100)
+            maxv = np.iinfo(np.int16).max
+        
         wav_paths = []
-        maxv = np.iinfo(np.int16).max
         
         # Create output directory if needed for any output
         if save_to_audio_files or save_to_textgrid or save_to_json:
