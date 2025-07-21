@@ -1,0 +1,232 @@
+[
+  {
+    "laugh_id": 0,
+    "start": 19.727579608349068,
+    "end": 22.865958884290983,
+    "duration": 3.138379275941915,
+    "original_start": 20.02757960834907,
+    "original_end": 22.565958884290982,
+    "original_duration": 2.5383792759419137,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_0.wav"
+  },
+  {
+    "laugh_id": 1,
+    "start": 41.245583745691555,
+    "end": 46.22370579960972,
+    "duration": 4.978122053918163,
+    "original_start": 41.54558374569155,
+    "original_end": 45.92370579960972,
+    "original_duration": 4.378122053918169,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_1.wav"
+  },
+  {
+    "laugh_id": 2,
+    "start": 68.23624045043175,
+    "end": 72.32942294026007,
+    "duration": 4.0931824898283224,
+    "original_start": 68.53624045043175,
+    "original_end": 72.02942294026008,
+    "original_duration": 3.493182489828328,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_2.wav"
+  },
+  {
+    "laugh_id": 3,
+    "start": 94.85429102292359,
+    "end": 98.55157949723804,
+    "duration": 3.6972884743144476,
+    "original_start": 95.15429102292359,
+    "original_end": 98.25157949723804,
+    "original_duration": 3.0972884743144533,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_3.wav"
+  },
+  {
+    "laugh_id": 4,
+    "start": 98.5337765788761,
+    "end": 102.34750446951816,
+    "duration": 3.813727890642056,
+    "original_start": 98.8337765788761,
+    "original_end": 102.04750446951816,
+    "original_duration": 3.213727890642062,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_4.wav"
+  },
+  {
+    "laugh_id": 5,
+    "start": 121.93809926072588,
+    "end": 125.98470598402315,
+    "duration": 4.046606723297273,
+    "original_start": 122.23809926072587,
+    "original_end": 125.68470598402315,
+    "original_duration": 3.446606723297279,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_5.wav"
+  },
+  {
+    "laugh_id": 6,
+    "start": 135.88754133677364,
+    "end": 139.39852674496393,
+    "duration": 3.510985408190294,
+    "original_start": 136.18754133677365,
+    "original_end": 139.09852674496392,
+    "original_duration": 2.910985408190271,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_6.wav"
+  },
+  {
+    "laugh_id": 7,
+    "start": 235.97886361198795,
+    "end": 238.76792463894705,
+    "duration": 2.7890610269591036,
+    "original_start": 236.27886361198796,
+    "original_end": 238.46792463894704,
+    "original_duration": 2.189061026959081,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_7.wav"
+  },
+  {
+    "laugh_id": 8,
+    "start": 251.04612408478079,
+    "end": 254.25436701051927,
+    "duration": 3.208242925738489,
+    "original_start": 251.3461240847808,
+    "original_end": 253.95436701051926,
+    "original_duration": 2.608242925738466,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_8.wav"
+  },
+  {
+    "laugh_id": 9,
+    "start": 292.1259501651619,
+    "end": 296.73146608683174,
+    "duration": 4.6055159216698485,
+    "original_start": 292.4259501651619,
+    "original_end": 296.43146608683173,
+    "original_duration": 4.005515921669826,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_9.wav"
+  },
+  {
+    "laugh_id": 10,
+    "start": 297.7849057986838,
+    "end": 299.80546667788064,
+    "duration": 2.0205608791968643,
+    "original_start": 298.0849057986838,
+    "original_end": 299.50546667788063,
+    "original_duration": 1.4205608791968416,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_10.wav"
+  },
+  {
+    "laugh_id": 11,
+    "start": 301.65069442076043,
+    "end": 305.7671647938543,
+    "duration": 4.116470373093875,
+    "original_start": 301.95069442076044,
+    "original_end": 305.4671647938543,
+    "original_duration": 3.5164703730938527,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_11.wav"
+  },
+  {
+    "laugh_id": 12,
+    "start": 315.27410613109095,
+    "end": 318.3426217572363,
+    "duration": 3.06851562614537,
+    "original_start": 315.57410613109096,
+    "original_end": 318.0426217572363,
+    "original_duration": 2.468515626145347,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_12.wav"
+  },
+  {
+    "laugh_id": 13,
+    "start": 369.27870742383686,
+    "end": 372.8828443650892,
+    "duration": 3.6041369412523636,
+    "original_start": 369.5787074238369,
+    "original_end": 372.5828443650892,
+    "original_duration": 3.004136941252341,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_13.wav"
+  },
+  {
+    "laugh_id": 14,
+    "start": 377.4993302165662,
+    "end": 381.45278540680135,
+    "duration": 3.953455190235161,
+    "original_start": 377.7993302165662,
+    "original_end": 381.15278540680134,
+    "original_duration": 3.353455190235138,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_14.wav"
+  },
+  {
+    "laugh_id": 15,
+    "start": 421.8394599541204,
+    "end": 425.2805817125141,
+    "duration": 3.441121758393706,
+    "original_start": 422.1394599541204,
+    "original_end": 424.9805817125141,
+    "original_duration": 2.841121758393683,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_15.wav"
+  },
+  {
+    "laugh_id": 16,
+    "start": 445.057479569846,
+    "end": 450.3616319894815,
+    "duration": 5.3041524196355,
+    "original_start": 445.357479569846,
+    "original_end": 450.0616319894815,
+    "original_duration": 4.704152419635477,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_16.wav"
+  },
+  {
+    "laugh_id": 17,
+    "start": 452.23014761562683,
+    "end": 454.576738860541,
+    "duration": 2.3465912449141797,
+    "original_start": 452.53014761562684,
+    "original_end": 454.276738860541,
+    "original_duration": 1.746591244914157,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_17.wav"
+  },
+  {
+    "laugh_id": 18,
+    "start": 456.35210295362424,
+    "end": 459.21102763037993,
+    "duration": 2.8589246767556915,
+    "original_start": 456.65210295362425,
+    "original_end": 458.9110276303799,
+    "original_duration": 2.2589246767556688,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_18.wav"
+  },
+  {
+    "laugh_id": 19,
+    "start": 483.06330505917816,
+    "end": 486.87703294982026,
+    "duration": 3.813727890642099,
+    "original_start": 483.3633050591782,
+    "original_end": 486.57703294982025,
+    "original_duration": 3.213727890642076,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_19.wav"
+  },
+  {
+    "laugh_id": 20,
+    "start": 536.8117396360034,
+    "end": 543.0241195029942,
+    "duration": 6.212379866990773,
+    "original_start": 537.1117396360033,
+    "original_end": 542.7241195029942,
+    "original_duration": 5.612379866990864,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_20.wav"
+  },
+  {
+    "laugh_id": 21,
+    "start": 546.289908125071,
+    "end": 552.781742591248,
+    "duration": 6.491834466177011,
+    "original_start": 546.5899081250709,
+    "original_end": 552.481742591248,
+    "original_duration": 5.891834466177102,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_21.wav"
+  },
+  {
+    "laugh_id": 22,
+    "start": 591.2355228275287,
+    "end": 594.8163718855154,
+    "duration": 3.580849057986711,
+    "original_start": 591.5355228275287,
+    "original_end": 594.5163718855155,
+    "original_duration": 2.980849057986802,
+    "filename": "./sample/GameCast_Play_Sample/output/laugh_22.wav"
+  }
+]
